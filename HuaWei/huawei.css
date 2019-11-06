@@ -1,0 +1,184 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html{
+    font-size: 26.67vw;
+    /* overflow: hidden; */
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden; 
+    overflow-y: auto;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color:white;
+}
+#max{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+#header{
+    width: 100%;
+    display: flex;
+}
+#header div span:nth-child(1){
+    margin-left: 1.6rem;
+}
+#header div span:nth-child(2){
+    margin-left: 1rem;
+    color: gray;
+}
+#shop{
+    width: 100%;
+    overflow: auto;
+    flex: 1;
+}
+#shop::-webkit-scrollbar{
+    display: none;
+}
+#footer{
+    width: 100%;
+}
+.one{
+    width: 3.75rem;
+    height: 5rem;
+    background-color: red;
+}
+.one img{
+    width: 100%;
+}
+.two{
+    width: 3.75rem;
+    height: 0.31rem;
+    font-size: 0;
+    padding-bottom: 0.1rem;
+}
+.two img{
+    width: 100%;
+}
+.three{
+    width: 3.75rem;
+    height: 2.88rem;
+    background-color: pink;
+    font-size: 0;
+}
+.three img{
+    width: 100%;
+}
+.four{
+    width: 3.75rem;
+    height: 0.32rem;
+    font-size: 0;
+}
+.four img{
+    width: 100%;
+}
+.five{
+    width: 3.75rem;
+    height: 4.22rem;
+    font-size: 0;
+}
+.five img{
+    width: 100%;
+}
+.six{
+    width: 3.75rem;
+    height: 2.32rem;
+    font-size: 0;
+}
+.six img{
+    width: 100%;
+}
+.seven{
+    width: 3.75rem;
+    height: 3.92rem;
+    font-size: 0;
+}
+.seven img{
+    width: 100%;
+}
+.eight{
+    width: 3.75rem;
+    height: 2.37rem;
+    font-size: 0;
+}
+.eight img{
+    width: 100%;
+}
+.nine{
+    width: 3.75rem;
+    height: 0.6rem;
+    /* margin-top: 0.145rem; */
+    /* margin-bottom: 0.145rem; */
+    font-size: 0;
+}
+.nine img{
+    width: 100%;
+}
+.ten{
+    width: 3.75rem;
+    height: 2.3rem;
+    font-size: 0;
+}
+.ten img{
+    width: 100%;
+}
+.ten-a{
+    width: 3.75rem;
+    height: 1.22rem;
+    font-size: 0;
+}
+.ten-a img{
+    width: 100%;
+}
+.ten-b{
+    width: 3.75rem;
+    height: 1.63rem;
+    font-size: 0;
+}
+.ten-b img{
+    width: 100%;
+}
