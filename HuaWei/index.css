@@ -131,7 +131,7 @@ body{
     display: -webkit-box; 
     display: box;
 }
-.chosen-swiper a{
+.chosen-swiper div{
     position: relative;
     display:block!important;
     width: 1rem;
