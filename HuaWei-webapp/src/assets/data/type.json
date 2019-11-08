@@ -1,0 +1,201 @@
+{
+    "banner":[
+        "https://res.vmallres.com/pimages//pages/picImages/tz09myAWKphvCz6uiZ1P.jpg",
+        "https://res.vmallres.com/pimages//pages/picImages/EKRovBkFNmOva7OU88kG.jpg",
+        "https://res.vmallres.com/pimages//pages/picImages/uzrpQqxKUY9MNOtvJvoh.jpg",
+        "https://res.vmallres.com/pimages//pages/picImages/EKRovBkFNmOva7OU88kG.jpg",
+        "https://res.vmallres.com/pimages//pages/picImages/s6C4a7JLgaobNLEopEnd.png",
+        "https://res.vmallres.com/pimages//pages/picImages/7qAtkltxTYoxTLi4cxs7.jpg"
+    ],
+    "index-one":[
+        {
+            "pic":"https://res.vmallres.com/pimages//pages/squaredInfo/J8X1var9kSXDzuOmqKv0.png",
+            "name":"邀请有礼"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//pages/squaredInfo/WFqViUp7VvkNphijTARW.png",
+            "name":"会员领券"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//pages/squaredInfo/Af1sHQaNeLMhkqAbc6QW.png",
+            "name":"华为5G"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//pages/squaredInfo/Jn4u9WYLNgYsREZTAMdV.png",
+            "name":"以旧换新"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//pages/squaredInfo/oy1P6Nz5V3PmI2vtfJTs.png",
+            "name":"公测"
+        } 
+    ],
+    "toutiao":{
+        "pic":"https://res.vmallres.com/nwap/20190915/images/echannelWap/logo/logo_wapHeadNews.png",
+        "text":"【文末赢好礼】华为商城11.11精选优惠福利合集在这里！千万别错亿啦",
+        "more":"更多"
+    },
+    "products":[
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443317806/428_428_1561519352671mp.png",
+            "name-a":"HUAWEI P30",
+            "name-b":"赠好礼|享6期免息",
+            "pirce":"￥3688"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443298266/428_428_1560477702935mp.png",
+            "name-a":"荣耀20i",
+            "name-b":"最高降600元",
+            "pirce":"￥1199"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443331406/428_428_8F36176EACD6DA14395E92D7387FCD4C55D6785CF6F85674mp.png",
+            "name-a":"HUAWEI Mate 30 Pro",
+            "name-b":"4G版全网通",
+            "pirce":"￥5799"
+        }
+    ],
+    "tuijian":[
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443293513/428_428_1555464685019mp.png",
+            "xiaozi":"赠好礼|享6期免息",
+            "name":"HUAWEI P30 Pro",
+            "pirce":"￥4988"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443333417/428_428_922417A5F3E6B30817A34691A7A91A900B04849591A72113mp.png",
+            "xiaozi":"低至899元",
+            "name":"荣耀Play3",
+            "pirce":"￥899"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443327690/428_428_50BAC6E20ED77CBBE6D44BD831603E6F0FB45173DB1EE8B2mp.png",
+            "xiaozi":"最高领券减50",
+            "name":"华为畅享10 Plus",
+            "pirce":"￥1499"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443320394/428_428_1563504284133mp.png",
+            "xiaozi":"直降200",
+            "name":"荣耀9X PRO",
+            "pirce":"￥1999"
+        },
+        {
+            "pic":"https://res.vmallres.com/pimages//product/6901443269723/428_428_1540895297253mp.png",
+            "xiaozi":"到手价1799元起",
+            "name":"荣耀Magic2",
+            "pirce":"￥1999"
+        }
+    ],
+    "iphone":[
+        {
+            "pic":"https://res.vmallres.com/nwap/20190915/images/echannelWap/loading/mask.png",
+            "xiaozi":"限量赠配件好礼 6期免息 ",
+            "name":"HUAWEI nova 5 Pro",
+            "pirce":"￥2699"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//wapFrontLocation/content/v1BmJuEyOv4itg4jwoTv.jpg",
+            "xiaozi":"最高降400元",
+            "name":"荣耀8X",
+            "pirce":"￥999"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//wapFrontLocation/content/pfItaYNL01vOZg0kDzsA.jpg",
+            "xiaozi":"最高领券减50 ",
+            "name":"华为畅享10 Plus",
+            "pirce":"￥1499"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//wapFrontLocation/content/h6OXsIBJCoz1hVaVPSPj.jpg",
+            "xiaozi":"最高省500享免息 ",
+            "name":"荣耀Note 10",
+            "pirce":"￥1599"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443315901/428_428_1560916037515mp.png",
+            "xiaozi":"直降200 增配件好礼 ",
+            "name":"HUAWEI nova 5i",
+            "pirce":"￥1799"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443273959/428_428_1555729935843mp.png",
+            "xiaozi":"最高降600元",
+            "name":"荣耀10青春版",
+            "pirce":"￥899"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443352678/428_428_9FA695518CFC23552650A7145BD7A40DC1A9F088C4BA6A07mp.png",
+            "xiaozi":"预订优惠100元",
+            "name":"华为畅享 10S",
+            "pirce":"￥1599"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443278138/428_428_1544693593610mp.png",
+            "xiaozi":"拼团优惠500元",
+            "name":"HUAWEI nova 4",
+            "pirce":"￥2699"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443331635/428_428_8B3334C6C3CF84495775E9D6CFFFF15D2AD64AA924A09AB5mp.png",
+            "xiaozi":"直降500+24期免息",
+            "name":"HUAWEI Mate 20X",
+            "pirce":"￥5699"
+        }
+    ],
+    "notebook":[
+        {
+            "pic":"https://res.vmallres.com/nwap/20190915/images/echannelWap/loading/mask.png",
+            "xiaozi":"限量赠配件好礼 6期免息 ",
+            "name":"HUAWEI nova 5 Pro",
+            "pirce":"￥2699"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//wapFrontLocation/content/v1BmJuEyOv4itg4jwoTv.jpg",
+            "xiaozi":"最高降400元",
+            "name":"荣耀8X",
+            "pirce":"￥999"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//wapFrontLocation/content/pfItaYNL01vOZg0kDzsA.jpg",
+            "xiaozi":"最高领券减50 ",
+            "name":"华为畅享10 Plus",
+            "pirce":"￥1499"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//wapFrontLocation/content/h6OXsIBJCoz1hVaVPSPj.jpg",
+            "xiaozi":"最高省500享免息 ",
+            "name":"荣耀Note 10",
+            "pirce":"￥1599"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443315901/428_428_1560916037515mp.png",
+            "xiaozi":"直降200 增配件好礼 ",
+            "name":"HUAWEI nova 5i",
+            "pirce":"￥1799"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443273959/428_428_1555729935843mp.png",
+            "xiaozi":"最高降600元",
+            "name":"荣耀10青春版",
+            "pirce":"￥899"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443352678/428_428_9FA695518CFC23552650A7145BD7A40DC1A9F088C4BA6A07mp.png",
+            "xiaozi":"预订优惠100元",
+            "name":"华为畅享 10S",
+            "pirce":"￥1599"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443278138/428_428_1544693593610mp.png",
+            "xiaozi":"拼团优惠500元",
+            "name":"HUAWEI nova 4",
+            "pirce":"￥2699"
+        },
+        {
+            "pic":"https://res0.vmallres.com/pimages//product/6901443331635/428_428_8B3334C6C3CF84495775E9D6CFFFF15D2AD64AA924A09AB5mp.png",
+            "xiaozi":"直降500+24期免息",
+            "name":"HUAWEI Mate 20X",
+            "pirce":"￥5699"
+        }
+    ]
+}
